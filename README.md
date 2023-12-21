@@ -46,7 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
-![Alt text](<../gaussian elimination.png>)
+![Alt text](<gaussian elimination.png>)
 
 
 ## Result:
